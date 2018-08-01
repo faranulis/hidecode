@@ -1,4 +1,3 @@
-<style>
 .bubble-right .name {
     display: block;
     color: #42A1FF;
@@ -111,4 +110,3 @@ nav#topnav {
 .post-container {
     padding: none;
 }
-</style>
